@@ -1,0 +1,65 @@
+CastleInfo:
+Room #1
+goblin health: 10, attack: 10, defense: 5
+
+Room #2
+
+Room #3
+
+Room #4
+goblin health: 10, attack: 10, defense: 5
+
+Room #5
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+
+Room #6
+goblin health: 10, attack: 10, defense: 5
+dragon health: 50, attack: 20, defense: 20
+dragon health: 50, attack: 20, defense: 20
+goblin health: 10, attack: 10, defense: 5
+
+Room #7
+dragon health: 50, attack: 20, defense: 20
+goblin health: 10, attack: 10, defense: 5
+
+Room #8
+goblin health: 10, attack: 10, defense: 5
+
+Room #9
+goblin health: 10, attack: 10, defense: 5
+
+Room #10
+
+Room #11
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+dragon health: 50, attack: 20, defense: 20
+
+Room #12
+goblin health: 10, attack: 10, defense: 5
+
+Room #13
+goblin health: 10, attack: 10, defense: 5
+dragon health: 50, attack: 20, defense: 20
+goblin health: 10, attack: 10, defense: 5
+
+Room #14
+dragon health: 50, attack: 20, defense: 20
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+
+Room #15
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+dragon health: 50, attack: 20, defense: 20
+goblin health: 10, attack: 10, defense: 5
+goblin health: 10, attack: 10, defense: 5
+
